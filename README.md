@@ -48,6 +48,7 @@ I'm a recently graduated Software Engineer passionate about building software so
 - Responsive Web Design
 - Agile Development (Scrum, Kanban)
 - Version Control (Git workflows)
+- Object-oriented programming (OOP)
 - Design Patterns (Singleton, Factory, Observer)
 - Data Structures & Algorithms
 
