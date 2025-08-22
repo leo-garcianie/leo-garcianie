@@ -44,11 +44,25 @@ I'm a recently graduated Software Engineer passionate about building software so
 </span>
 
 ## Core Concepts & Methodologies
-- Data Structures & Algorithms
-- Design Patterns (Singleton, Factory, Observer)
-- Agile Development (Scrum, Kanban)
 - RESTful API Design
-- Version Control (Git workflows)
 - Responsive Web Design
+- Agile Development (Scrum, Kanban)
+- Version Control (Git workflows)
+- Design Patterns (Singleton, Factory, Observer)
+- Data Structures & Algorithms
 
 ## Projects
+<h3><a href="https://github.com/leo-garcianie/front-find">FrontFind</a></h3>
+FrontFind is a web application that recommends the best frontend framework for your project based on your preferences.
+- Tech stack: React, Javascript, Tailwind, Axios, React Router, Flask, Python.
+- Key features: Framework recommendation engine based on user preferences, Interactive questionnaire, responsive design with intuitive interface.
+
+<h3><a href="https://github.com/leo-garcianie/table-time">TableTime</a></h3>
+TableTime is a web app for easy restaurant reservations. Customers can book tables by choosing date, time, party size, and table. Admins can manage bookings and view reservation stats.
+- Tech stack: React, Javascript, Tailwind, Axios, React Router, Node, Express, MongoDB.
+- Key features: Real-time reservation system, admin dashboard for booking management, date/time picker with party size allocation, reservation analytics and reporting.
+
+<h3><a href="https://github.com/leo-garcianie/verbo-app">Verbo</a></h3>
+A web application for text analysis, showing metrics such as word count, character count, sentences, and paragraphs.
+- Tech stack: React, Javascript, Tailwind, Node, Express.
+- Key features: Real-time text analysis (word, character, sentences, paragraph count), clean and minimalist interface, fast processing with instant results.
